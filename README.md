@@ -52,7 +52,7 @@ This project involves using the pre-trained `bert-base-uncased` model for text c
 ## Data Sources
 
 - **Text Regression**: Scraped from various Arabic websites using Scrapy or BeautifulSoup.
-- **Text Generation**: Custom dataset generated for fine-tuning GPT-2.
+- **Text Generation**: [Dataset](https://www.kaggle.com/datasets/shailajakodag1/netflix-titlescsv/data)
 - **BERT Model**: [Amazon Reviews Dataset](https://nijianmo.github.io/amazon/index.html).
 
 ## Credits
